@@ -2,19 +2,27 @@
 
   
 <p align="center">
- *Hi!!, my names Taylor! its nice to meet you ^^, welcome to my github!.* 
+  
+*Hi!!, my names Taylor! its nice to meet you ^^, welcome to my github!.* 
+
 </p>
 
 <p align="center">
- *I am 16 years old at the time of writing this although soon to be 17 in march. March 22nd.* 
+  
+*I am 16 years old at the time of writing this although soon to be 17 in march. March 22nd.* 
+
 </p>
 
 <p align="center">
- *I am from the country new zealand, being a kiwi ^^, so my time zone is GMT+13* 
+  
+*I am from the country new zealand, being a kiwi ^^, so my time zone is GMT+13* 
+
 </p>
 
 <p align="center">
- *To know more about me and my interests please have a look at my strawpage!, and leave a message on my ATA book ^^.* 
+  
+*To know more about me and my interests please have a look at my strawpage!, and leave a message on my ATA book ^^.* 
+
 </p>
 
 
