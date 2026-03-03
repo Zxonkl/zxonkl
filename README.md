@@ -11,4 +11,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zxonkl)
 
-![Alt text for the GIF](URL_of_your_GIF)
+![Alt text for the GIF](https://i.pinimg.com/originals/b9/5a/ff/b95affa5e1a40e2c17b5330abe77b0f6.gif)
