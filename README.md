@@ -5,7 +5,7 @@
 
 
 
-  *I am 16 years old at the time of writing this although soon to be 17 in march. March 22nd.* 
+  *for those who saw my intro before... I am officially 17 now!! as of todayyy yyayayayyay ^^ (Tay from 22/3).* 
 
 
 
