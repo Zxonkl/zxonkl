@@ -2,7 +2,7 @@
 
   <p align="center"
   *Hi!!, my names Taylor! its nice to meet you ^^, welcome to my github!.*
-</p>
+/p>
 
 
   *for those who saw my intro before... I am officially 17 now!! as of todayyy yyayayayyay ^^ (Tay from 22/3).* 
