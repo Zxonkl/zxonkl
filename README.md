@@ -24,5 +24,4 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zxonkl)
 
-![Alt Text](<img src="https://i.pinimg.com/736x/a3/3c/19/a33c192a517d7d130653e06bf96a7376.jpg" alt="This may contain: two people are standing in front of an abstract background with trees and water, while one person is holding his hand out to the other"/><img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/21f2c050-1d8d-41de-90d8-d384494c0d2e" />
-)
+![Alt Text](https://i.pinimg.com/736x/14/1d/06/141d06fbe063fdfbfeb5985697eee294.jpg)
