@@ -1,4 +1,4 @@
-![Alt text for the JPG]([https://i.pinimg.com/originals/08/b1/87/08b1878c8a7b0cb066ba831a8aceaf01.gif](https://i.pinimg.com/1200x/c1/c7/69/c1c7692717aa7da0c3b0f4ae18996bd9.jpg))
+![Alt Text](https://i.pinimg.com/1200x/c1/c7/69/c1c7692717aa7da0c3b0f4ae18996bd9.jpg)
 
   
   *Hi!!, my names Taylor! its nice to meet you ^^, welcome to my github!.* 
