@@ -1,7 +1,7 @@
 ![Alt Text](https://i.pinimg.com/1200x/c1/c7/69/c1c7692717aa7da0c3b0f4ae18996bd9.jpg)
 
-  <p align="center">
-  _Hi!!, my names Taylor! its nice to meet you ^^, welcome to my github!._
+  <p align="center"
+  *Hi!!, my names Taylor! its nice to meet you ^^, welcome to my github!.*
 </p>
 
 
