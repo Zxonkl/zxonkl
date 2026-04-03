@@ -6,9 +6,10 @@
 <img src='https://i.pinimg.com/1200x/c1/c7/69/c1c7692717aa7da0c3b0f4ae18996bd9.jpg' alt='...' width="400" height="500">
   </p>
 
-  <p align="center" <p style="font-size= 200px;">  
-  <i>Hi!!, my names Taylor! its nice to meet you ^^, welcome to my github!.</i> </p>
-  </p>
+ <p align="center">
+    <i>Hi!!, my names Taylor! It's nice to meet you ^^, welcome to my GitHub!</i>
+  </span>
+</p>
   <p align="center">  
 <img src='https://64.media.tumblr.com/3f42ea348c02a20b9a1a7a1fc99cf023/3eedff37ac836680-6f/s2048x3072/5f7d2d5c4dddbceec1dd6eedddcf0f9becd562cc.pnj' alt='...' width="400">
   </p>
@@ -45,7 +46,9 @@
 <img src='https://64.media.tumblr.com/041926c27fb835baad0bdc8a592c3dad/5b5768b53aad21c8-24/s1280x1920/fffefaf42d3db6fbda692459d9676aeb384668a8.pnj' alt='...' width="1000">
   </p>
   
-![Profile views](https://komarev.com/ghpvc/?username=Zxonkl)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zxonkl&color=7df9ff&label=.✦Wonders" />
+</p>
 <p align="center">  
 <img src='https://64.media.tumblr.com/07b240fa26a64d4d8c451ae526ece2c4/a38096af7c2eff11-92/s2048x3072/588b71ef0376092319c8e08873336ddfd001a5bf.pnj' alt='...' width="400">
   </p>
