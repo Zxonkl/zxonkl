@@ -1,9 +1,9 @@
   <p align="center">  
-<img src='https://64.media.tumblr.com/4e70673268bda36cbb80f25d58481668/5b5768b53aad21c8-12/s2048x3072/cb62a0061fabb979b62ff924c6b40a7089b3ca99.pnj' alt='...' width="1000">
+<img src='https://media.discordapp.net/attachments/874888303483158570/1494882829379567698/tumblr_050695ee71109bb8d3da3bd4126e7bd5_0f47c6f3_2048-removebg-preview.png?ex=69e439a0&is=69e2e820&hm=13d656e3f180b0f6eb4cb7694e36b1baa28fc4245d85ed9819de397f5242f1ca&=&format=webp&quality=lossless&width=1564&height=249' alt='...' width="1000" height="100">
   </p>
   
   <p align="center">  
-<img src='https://i.pinimg.com/1200x/8c/1e/4e/8c1e4eacf09cd76d86bf30425801d133.jpg' alt='...' width="400" height="500">
+<img src='https://i.pinimg.com/1200x/8c/1e/4e/8c1e4eacf09cd76d86bf30425801d133.jpg' alt='...' width="1000" height="200">
   </p>
 
  <p align="center">
@@ -11,21 +11,21 @@
   </span>
 </p>
   <p align="center">  
-<img src='https://64.media.tumblr.com/3f42ea348c02a20b9a1a7a1fc99cf023/3eedff37ac836680-6f/s2048x3072/5f7d2d5c4dddbceec1dd6eedddcf0f9becd562cc.pnj' alt='...' width="400">
+<img src='https://64.media.tumblr.com/3d9072a1ac78418018b8e506d50e710c/e4eccd3b03350099-50/s2048x3072/b663222726002da85c925ce20d4d0eaa333f3a66.pnj' alt='...' width="400">
   </p>
 <br>
 <p align="center">  
   <i> I'm 17 years old, my birthday is March 22nd</i> 
   </p>
    <p align="center">  
-<img src='https://64.media.tumblr.com/ceb1386e90dec54b5dedd412d75c57c6/b0a829ebb5c89d25-33/s1280x1920/9ce2fa83beddb4ee71ede2624a9e5388b3616739.pnj' alt='...' width="100"> <img src='https://64.media.tumblr.com/35b9b2db0bbc8a207a7d481f526fca40/b0a829ebb5c89d25-58/s1280x1920/3754e3b741bb2fed240de26e9057189b3bcb68cb.pnj' alt='...' width="100">
+<img src='https://media.discordapp.net/attachments/874888303483158570/1494870614870069459/b2d7715fa4da30ba1caedf46cda4f524-removebg-preview.png?ex=69e42e3f&is=69e2dcbf&hm=c3cbf629b2b8363410bf40833221c4f993c5ff40c6701705256be5aa98164179&=&format=webp&quality=lossless&width=721&height=541' width="200"> 
   </p> 
 <br>
 <p align="center">  
   <i>I've been on PT for like six years now...? since may 9th 2020, I know im such a chud.</i>
   </p>
     <p align="center">  
-<img src='https://64.media.tumblr.com/57e945870950741a06196e95de812292/3eedff37ac836680-3c/s2048x3072/8c7f6b0c6fec31641f92d5d2d58661ecd0001030.pnj' alt='...' width="400">
+<img src='https://64.media.tumblr.com/5e6dcc3d99d047f7457c4713e45a12de/e4eccd3b03350099-51/s2048x3072/73e1c3f00e1e2a2e70c28f5c9389716bfdca6d07.pnj' alt='...' width="400">
   </p>
   <br>
 <p align="center">  
@@ -38,18 +38,18 @@
 <br>
   
   <p align="center">  
-<img src='https://i.pinimg.com/736x/14/1d/06/141d06fbe063fdfbfeb5985697eee294.jpg' alt='...' width="400" height="500">
+<img src='https://i.pinimg.com/736x/e4/10/6b/e4106ba83111ef8d9f755571bb954b2b.jpg' alt='...' width="1000" height="200">
   </p>
 
 
   <p align="center">  
-<img src='https://64.media.tumblr.com/041926c27fb835baad0bdc8a592c3dad/5b5768b53aad21c8-24/s1280x1920/fffefaf42d3db6fbda692459d9676aeb384668a8.pnj' alt='...' width="1000">
+<img src='https://64.media.tumblr.com/4ab08389650d31476de1656e382a872d/e4eccd3b03350099-64/s2048x3072/d8bde73a8813189654996f53a4b8866b39f92ae4.pnj' alt='...' width="1000">
   </p>
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zxonkl&color=7df9ff&label=.✦Wonders" />
+  <img src="https://komarev.com/ghpvc/?username=Zxonkl&color=c71622&label=.✦elders" />
 </p>
 <p align="center">  
-<img src='https://64.media.tumblr.com/07b240fa26a64d4d8c451ae526ece2c4/a38096af7c2eff11-92/s2048x3072/588b71ef0376092319c8e08873336ddfd001a5bf.pnj' alt='...' width="400">
+<img src='https://64.media.tumblr.com/c32cfa187a85df37961f6c53cb1ee92b/e4eccd3b03350099-56/s2048x3072/e1dea25913fe7420a1dc9e4f5dcb16c9c04540ba.pnj' alt='...' width="400">
   </p>
   
