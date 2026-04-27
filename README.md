@@ -3,7 +3,7 @@
   </p>
   
   <p align="center">  
-<img src='https://i.pinimg.com/1200x/8c/1e/4e/8c1e4eacf09cd76d86bf30425801d133.jpg' alt='...' width="1000" height="200">
+<img src='https://media.discordapp.net/attachments/874888303483158570/1498253867509485708/Screenshot_2026-04-27_9.25.40_PM.png?ex=69f07d26&is=69ef2ba6&hm=971b4bf65171b4307058d4ccca0a24b8a7b79a23d7976d78530eac92de0f1c3c&=&format=webp&quality=lossless&width=1113&height=580' alt='...' width="1000" height="200">
   </p>
 
  <p align="center">
@@ -18,7 +18,7 @@
   <i> I'm 17 years old, my birthday is March 22nd</i> 
   </p>
    <p align="center">  
-<img src='https://media.discordapp.net/attachments/874888303483158570/1494870614870069459/b2d7715fa4da30ba1caedf46cda4f524-removebg-preview.png?ex=69e42e3f&is=69e2dcbf&hm=c3cbf629b2b8363410bf40833221c4f993c5ff40c6701705256be5aa98164179&=&format=webp&quality=lossless&width=721&height=541' width="200"> 
+<img src='https://media.discordapp.net/attachments/874888303483158570/1498252290245529731/8a915dc1cb398a804c014d0efd5515e9-removebg-preview.png?ex=69f07bae&is=69ef2a2e&hm=309ed7b0c4d5e239a331edd6da2d1d1389f4079650d988793d9eee517ff9d672&=&format=webp&quality=lossless&width=649&height=601' width="200"> 
   </p> 
 <br>
 <p align="center">  
@@ -38,7 +38,7 @@
 <br>
   
   <p align="center">  
-<img src='https://i.pinimg.com/736x/e4/10/6b/e4106ba83111ef8d9f755571bb954b2b.jpg' alt='...' width="1000" height="200">
+<img src='https://media.discordapp.net/attachments/874888303483158570/1498255414406549678/image.png?ex=69f07e97&is=69ef2d17&hm=543a587d86658f0965390cbefbc51e6914e977d8375cba7e31ef1a793c938a03&=&format=webp&quality=lossless&width=1395&height=603' alt='...' width="1000" height="200">
   </p>
 
 
@@ -47,7 +47,7 @@
   </p>
   
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zxonkl&color=c71622&label=.✦elders" />
+  <img src="https://komarev.com/ghpvc/?username=Zxonkl&color=565541&label=.✦tooslow!tooslow!" />
 </p>
 <p align="center">  
 <img src='https://64.media.tumblr.com/c32cfa187a85df37961f6c53cb1ee92b/e4eccd3b03350099-56/s2048x3072/e1dea25913fe7420a1dc9e4f5dcb16c9c04540ba.pnj' alt='...' width="400">
