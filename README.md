@@ -1,9 +1,9 @@
   <p align="center">  
-<img src='https://media.discordapp.net/attachments/874888303483158570/1494882829379567698/tumblr_050695ee71109bb8d3da3bd4126e7bd5_0f47c6f3_2048-removebg-preview.png?ex=69e439a0&is=69e2e820&hm=13d656e3f180b0f6eb4cb7694e36b1baa28fc4245d85ed9819de397f5242f1ca&=&format=webp&quality=lossless&width=1564&height=249' alt='...' width="1000" height="100">
+<img src='https://64.media.tumblr.com/050695ee71109bb8d3da3bd4126e7bd5/e4eccd3b03350099-a7/s2048x3072/0f47c6f32a4324a1302fdacbc1772a392a7cb64e.pnj' alt='...' width="1000" height="100">
   </p>
   
   <p align="center">  
-<img src='https://media.discordapp.net/attachments/874888303483158570/1498253867509485708/Screenshot_2026-04-27_9.25.40_PM.png?ex=69f07d26&is=69ef2ba6&hm=971b4bf65171b4307058d4ccca0a24b8a7b79a23d7976d78530eac92de0f1c3c&=&format=webp&quality=lossless&width=1113&height=580' alt='...' width="1000" height="200">
+<img src='https://media.discordapp.net/attachments/874888303483158570/1498253867509485708/Screenshot_2026-04-27_9.25.40_PM.png?ex=69f7bd66&is=69f66be6&hm=926fa943e14cace08a097071e58ccd085ce0237699b00166ac1339ed211473ce&=&format=webp&quality=lossless&width=1113&height=580' alt='...' width="1000" height="200">
   </p>
 
  <p align="center">
