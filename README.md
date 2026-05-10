@@ -18,7 +18,7 @@
   <i> I'm 17 years old, my birthday is March 22nd</i> 
   </p>
    <p align="center">  
-<img src='https://media.discordapp.net/attachments/874888303483158570/1498252290245529731/8a915dc1cb398a804c014d0efd5515e9-removebg-preview.png?ex=69f07bae&is=69ef2a2e&hm=309ed7b0c4d5e239a331edd6da2d1d1389f4079650d988793d9eee517ff9d672&=&format=webp&quality=lossless&width=649&height=601' width="200"> 
+<img src='https://64.media.tumblr.com/07668c91c581ac95a570095712442353/f2e3143342d5c479-45/s540x810/dfbaa8752d2fcac0fc6e04fecd0c4642d0b51ab1.pnj' width="200"> 
   </p> 
 <br>
 <p align="center">  
