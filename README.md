@@ -3,7 +3,7 @@
   </p>
   
   <p align="center">  
-<img src='https://media.discordapp.net/attachments/874888303483158570/1498253867509485708/Screenshot_2026-04-27_9.25.40_PM.png?ex=69f7bd66&is=69f66be6&hm=926fa943e14cace08a097071e58ccd085ce0237699b00166ac1339ed211473ce&=&format=webp&quality=lossless&width=1113&height=580' alt='...' width="1000" height="200">
+<img src='https://64.media.tumblr.com/80053e94ed026e179dd4bc20f8e78400/02713bf4764abbc5-b9/s1280x1920/98419ddcd454f32db5134cb7c82a055342815b08.pnj' alt='...' width="1000" height="200">
   </p>
 
  <p align="center">
@@ -38,7 +38,7 @@
 <br>
   
   <p align="center">  
-<img src='https://media.discordapp.net/attachments/874888303483158570/1498255414406549678/image.png?ex=69f07e97&is=69ef2d17&hm=543a587d86658f0965390cbefbc51e6914e977d8375cba7e31ef1a793c938a03&=&format=webp&quality=lossless&width=1395&height=603' alt='...' width="1000" height="200">
+<img src='https://64.media.tumblr.com/5436c18bdd109072077e621fa6e45cf8/02713bf4764abbc5-81/s1280x1920/64ba3d3164f34bc7e12d4cd8bcc01f3042cac7db.pnj' alt='...' width="1000" height="200">
   </p>
 
 
