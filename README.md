@@ -1,55 +1,7 @@
   <p align="center">  
-<img src='https://64.media.tumblr.com/050695ee71109bb8d3da3bd4126e7bd5/e4eccd3b03350099-a7/s2048x3072/0f47c6f32a4324a1302fdacbc1772a392a7cb64e.pnj' alt='...' width="1000" height="100">
+<img src='https://64.media.tumblr.com/581d54555055777768fc67efc9798ec6/e171525f9885bbc1-1f/s400x600/8a313ac7c55959c5c7a069da610ead8c673f5437.pnj' alt='...' width="300" height="300">
   </p>
-  
-  <p align="center">  
-<img src='https://64.media.tumblr.com/80053e94ed026e179dd4bc20f8e78400/02713bf4764abbc5-b9/s1280x1920/98419ddcd454f32db5134cb7c82a055342815b08.pnj' alt='...' width="1000" height="200">
-  </p>
-
+ 
  <p align="center">
-    <i>Hi!!, my names Taylor! It's nice to meet you ^^, welcome to my GitHub!</i>
+    <i>Oh my god. You see the knockers on that broad? Marone.</i>
   </span>
-</p>
-  <p align="center">  
-<img src='https://64.media.tumblr.com/3d9072a1ac78418018b8e506d50e710c/e4eccd3b03350099-50/s2048x3072/b663222726002da85c925ce20d4d0eaa333f3a66.pnj' alt='...' width="400">
-  </p>
-<br>
-<p align="center">  
-  <i> I'm 17 years old, my birthday is March 22nd</i> 
-  </p>
-   <p align="center">  
-<img src='https://64.media.tumblr.com/07668c91c581ac95a570095712442353/f2e3143342d5c479-45/s540x810/dfbaa8752d2fcac0fc6e04fecd0c4642d0b51ab1.pnj' width="200"> 
-  </p> 
-<br>
-<p align="center">  
-  <i>I've been on PT for like six years now...? since may 9th 2020, I know im such a chud.</i>
-  </p>
-    <p align="center">  
-<img src='https://64.media.tumblr.com/5e6dcc3d99d047f7457c4713e45a12de/e4eccd3b03350099-51/s2048x3072/73e1c3f00e1e2a2e70c28f5c9389716bfdca6d07.pnj' alt='...' width="400">
-  </p>
-  <br>
-<p align="center">  
-  <i>I am from the country new zealand, being a kiwi ^^, so my time zone is GMT+13</i> 
-  </p>
-<br>
-<p align="center">  
-  <i>To know more about me and my interests please have a look at my strawpage!, and leave a message on my ATA book ^^.</i> 
-  </p>
-<br>
-  
-  <p align="center">  
-<img src='https://64.media.tumblr.com/5436c18bdd109072077e621fa6e45cf8/02713bf4764abbc5-81/s1280x1920/64ba3d3164f34bc7e12d4cd8bcc01f3042cac7db.pnj' alt='...' width="1000" height="200">
-  </p>
-
-
-  <p align="center">  
-<img src='https://64.media.tumblr.com/4ab08389650d31476de1656e382a872d/e4eccd3b03350099-64/s2048x3072/d8bde73a8813189654996f53a4b8866b39f92ae4.pnj' alt='...' width="1000">
-  </p>
-  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zxonkl&color=565541&label=.✦tooslow!tooslow!" />
-</p>
-<p align="center">  
-<img src='https://64.media.tumblr.com/c32cfa187a85df37961f6c53cb1ee92b/e4eccd3b03350099-56/s2048x3072/e1dea25913fe7420a1dc9e4f5dcb16c9c04540ba.pnj' alt='...' width="400">
-  </p>
-  
