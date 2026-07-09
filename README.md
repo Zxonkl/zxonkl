@@ -7,5 +7,5 @@
   </span>
 
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zxonkl&label=Reagents&color=012666&style=flat" alt="Reagents" />
+  <img src="https://komarev.com/ghpvc/?username=Zxonkl&label=Reagents&color=897E66&style=flat" alt="Reagents" />
 </p>
