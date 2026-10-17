@@ -3,6 +3,6 @@
   </p>
  
  <p align="center">
-    <i>Well, I'm not sure many people fall from the sky, James. Unless humans developed a past time in doing so, from last I checked.</i>
+    <i>Hey. It’s ‘Öga för öga,’ idiots. Swedish for ‘an eye for an eye.’ Means the Swedes killed Elliott.</i>
   </span>
 
